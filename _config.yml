@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "marakasovniko@yandex.ru"
-  facebook: marakasovnikolay
+  facebook: nikolay.marakasov
   github: m-niko
 # twitter: daattali
 #  reddit: yourname
@@ -107,7 +107,7 @@ url-pretty: "m-niko.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-124332387-1"
 
 # Google Tag Manager ID
 #gtm: ""
